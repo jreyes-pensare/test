@@ -1,5 +1,5 @@
 # test
-Comentario que generara conflicto
+Pensare
 Primer archivo git
 Segunda vuelta
 
